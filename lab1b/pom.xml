@@ -14,6 +14,13 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
+	<scm>
+    <connection>scm:git:https://github.com/bubenstar/lab1b.git</connection>
+    <developerConnection>scm:git:git@github.com/bubenstar/lab1b.git</developerConnection>
+    <tag>HEAD</tag>
+    <url>https://github.com/bubenstar/lab1b.git</url>
+  </scm>
+	
 	<dependencies>
 		<dependency>
 			<groupId>mysql</groupId>
